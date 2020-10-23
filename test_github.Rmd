@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Type your name (or anything else) HERE: Liviu Iancu heyoooooooooooooooooo
+Type your name (or anything else) HERE: Liviu Iancu heyooooooooooooooooooooooo
 
 
 Here's some code (change the variable names and values):
@@ -18,7 +18,8 @@ green <- 99
 
 pink <- 33
 
-some_shitty_mix_of_green_and_pink <- green/pink
+some_gross_mix_of_green_and_pink <- green/pink
+
 
 ```
 
